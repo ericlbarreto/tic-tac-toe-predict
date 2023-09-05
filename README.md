@@ -17,11 +17,19 @@ _|_|_
 o|_|_
 x|_|_
 ```
+## How to use:
+Requirements:
+- Python
+
+>git clone https://github.com/ericlbarreto/tic-tac-toe-predict.git
+
+Run the code and paste the input you want to predict, remembering to follow the structure of the game.
+
 
 ## 📚 New learnings
 
-• Using recursive functions in python to explore possibilities
+- Using recursive functions in python to explore possibilities
 
-• Knowledge of the MinMax algorithm for analysis of better decisions, minimizing the possible maximum loss
+- Knowledge of the MinMax algorithm for analysis of better decisions, minimizing the possible maximum loss
 
-• Knowledge of applying binary trees
+- Knowledge of applying binary trees
